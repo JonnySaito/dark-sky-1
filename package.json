@@ -1,0 +1,22 @@
+{
+  "name": "darksky1",
+  "version": "1.0.0",
+  "description": "Darksky api, jquery, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnySaito/dark-sky-1.git"
+  },
+  "author": "John B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnySaito/dark-sky-1/issues"
+  },
+  "homepage": "https://github.com/JonnySaito/dark-sky-1#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
